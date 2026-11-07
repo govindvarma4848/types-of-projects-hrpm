@@ -17,7 +17,7 @@
 
 ## 🌐 Live Presentation
 
-👉 **[Click here to view the live presentation](https://YOUR_USERNAME.github.io/types-of-projects-hrpm/)**
+👉 **[Click here to view the live presentation](https://govindvarma4848.github.io/types-of-projects-hrpm/)**
 
 ---
 
