@@ -1,4 +1,4 @@
-![Preview](output-image.png)
+![Preview](output-image.jpeg)
 ---
 
 ## 🌐 Live Presentation
