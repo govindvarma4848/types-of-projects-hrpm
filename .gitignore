@@ -1,0 +1,20 @@
+# Python files
+*.py
+__pycache__/
+*.pyc
+
+# PPTX (optional - remove this line if you want the PPTX in the repo too)
+# *.pptx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
