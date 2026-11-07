@@ -11,7 +11,7 @@
 | Name | Roll Number | Group |
 |------|-------------|-------|
 | Adapa Govind Varma | 24A85A4301 | LE-1 |
-| M Sai Ram | 24A85A4303 | LE-3 |
+| Mangam Sai Ram | 24A85A4303 | LE-3 |
 
 ---
 
