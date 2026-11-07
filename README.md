@@ -1,3 +1,11 @@
+![Preview](output-image.jpeg)
+---
+
+## 🌐 Live Presentation
+
+👉 **[Click here to view the live presentation](https://govindvarma4848.github.io/types-of-projects-hrpm/)**
+
+---
 # 📊 Types of Projects – HRPM Presentation
 
 > **Subject:** Human Resources & Project Management (HRPM)
@@ -13,13 +21,7 @@
 | Adapa Govind Varma | 24A85A4301 | LE-1 |
 | Mangam Sai Ram | 24A85A4303 | LE-3 |
 
----
 
-## 🌐 Live Presentation
-
-👉 **[Click here to view the live presentation](https://govindvarma4848.github.io/types-of-projects-hrpm/)**
-
----
 
 ## ✨ Features
 
