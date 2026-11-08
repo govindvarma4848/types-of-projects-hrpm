@@ -384,6 +384,39 @@ html, body {
   flex-shrink:0;
 }
 
+/* Submitted To card */
+.submitted-to-card {
+  background: linear-gradient(135deg, rgba(99,102,241,.18), rgba(6,182,212,.12));
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(99,102,241,.4);
+  border-radius: var(--r-xl);
+  padding: .9rem 2rem;
+  box-shadow: var(--shadow), 0 0 30px rgba(99,102,241,.15);
+  min-width: 300px; max-width: 500px;
+  text-align: center;
+  animation: fadeUp .7s .65s both;
+}
+.st-row {
+  display: flex; align-items: center; gap: .8rem;
+  justify-content: center; margin-bottom: .5rem;
+}
+.st-icon { font-size: 1.9rem; }
+.st-label {
+  font-size: .78rem; font-weight: 600; letter-spacing: 1.5px;
+  color: var(--cyan); text-transform: uppercase; margin-bottom: .18rem;
+}
+.st-name {
+  font-size: 1.1rem; font-weight: 800; color: var(--white);
+}
+.st-divider {
+  width: 60%; height: 1px; margin: .5rem auto;
+  background: rgba(255,255,255,.18);
+}
+.st-dept {
+  font-size: .92rem; color: var(--dim); font-weight: 600;
+}
+.st-dept strong { color: var(--gold, #f59e0b); }
+
 .title-cards {
   display:flex; flex-wrap:wrap; gap:.8rem; justify-content:center;
   animation:fadeUp .7s .8s both;
