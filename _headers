@@ -1,0 +1,4 @@
+---
+# No caching — always serve fresh content
+"/*":
+  cache-control: no-cache, no-store, must-revalidate
